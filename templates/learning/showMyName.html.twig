@@ -1,0 +1,9 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}About me{% endblock %}
+
+{% block body %}
+        <h1>Hello {{ name }}</h1>
+        <a href="{{ path('aboutMe') }}">About me</a>
+        {{ form(form) }}
+{% endblock %}
