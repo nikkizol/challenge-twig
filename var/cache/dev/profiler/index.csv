@@ -562,3 +562,8 @@ a29120,127.0.0.1,POST,http://symfony.localhost/changeMyName,1605003600,,302
 c7847b,127.0.0.1,GET,http://symfony.localhost/,1605003602,,200
 bbb4c2,127.0.0.1,GET,http://symfony.localhost/aboutMe,1605003603,,200
 8b1c5f,127.0.0.1,GET,http://symfony.localhost/,1605003603,,200
+f32b49,127.0.0.1,GET,http://twig.localhost/aboutMe/,1605004041,,301
+ff55e6,127.0.0.1,GET,http://twig.localhost/aboutMe,1605004041,7fadfe,200
+7fadfe,127.0.0.1,GET,http://twig.localhost/aboutMe,1605004041,,200
+a26f3d,127.0.0.1,POST,http://twig.localhost/changeMyName,1605004045,,302
+5d9cea,127.0.0.1,GET,http://twig.localhost/,1605004045,,200
